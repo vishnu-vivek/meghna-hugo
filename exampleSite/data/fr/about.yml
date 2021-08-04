@@ -4,9 +4,6 @@ about:
   title: About Us
   about_item:
   - icon: ti-ruler-pencil
-    title: Vishnu Added this title
-    content: Vishnu Added this content
-  - icon: ti-ruler-pencil
     title: We're Creative
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
       libero, perspiciatis eos provident laborum eum dignissimos.
@@ -18,3 +15,6 @@ about:
     title: We're Genius
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
       libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon: ti-ruler-pencil
+    title: Vishnu Added this title
+    content: Vishnu Added this content
